@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "89850725462",
+    "project_id": "tecnm-55c4e",
+    "storage_bucket": "tecnm-55c4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89850725462:android:e97abcccc4065b0aada7f7",
+        "android_client_info": {
+          "package_name": "com.example.aplicacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuvunaadRADVRmU0Y8DKznTtYfxGondsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
